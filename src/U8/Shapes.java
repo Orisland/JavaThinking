@@ -20,6 +20,9 @@ class Circle extends shape{
     public void clean() {
         System.out.println("Circle clean");
     }
+    public void put(){
+        System.out.println("circle override");
+    }
 }
 
 class Square extends shape{
@@ -67,6 +70,7 @@ public class Shapes {
         }
         for (shape s:shapes){
             s.draw();
+            s.put();    //这个每次都会调用
         }
     }
 }

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="E:/Java/OnJava8-Examples-master" />
+        <option name="gradleHome" value="E:/Java/gradle-6.2.1" />
+        <option name="modules">
+          <set>
+            <option value="E:/Java/OnJava8-Examples-master" />
+            <option value="E:/Java/OnJava8-Examples-master/annotations" />
+            <option value="E:/Java/OnJava8-Examples-master/arrays" />
+            <option value="E:/Java/OnJava8-Examples-master/buildSrc" />
+            <option value="E:/Java/OnJava8-Examples-master/collections" />
+            <option value="E:/Java/OnJava8-Examples-master/collectiontopics" />
+            <option value="E:/Java/OnJava8-Examples-master/com" />
+            <option value="E:/Java/OnJava8-Examples-master/compression" />
+            <option value="E:/Java/OnJava8-Examples-master/concurrent" />
+            <option value="E:/Java/OnJava8-Examples-master/control" />
+            <option value="E:/Java/OnJava8-Examples-master/enums" />
+            <option value="E:/Java/OnJava8-Examples-master/equalshashcode" />
+            <option value="E:/Java/OnJava8-Examples-master/exceptions" />
+            <option value="E:/Java/OnJava8-Examples-master/files" />
+            <option value="E:/Java/OnJava8-Examples-master/functional" />
+            <option value="E:/Java/OnJava8-Examples-master/generics" />
+            <option value="E:/Java/OnJava8-Examples-master/hiding" />
+            <option value="E:/Java/OnJava8-Examples-master/housekeeping" />
+            <option value="E:/Java/OnJava8-Examples-master/innerclasses" />
+            <option value="E:/Java/OnJava8-Examples-master/interfaces" />
+            <option value="E:/Java/OnJava8-Examples-master/iostreams" />
+            <option value="E:/Java/OnJava8-Examples-master/javadoc" />
+            <option value="E:/Java/OnJava8-Examples-master/lowlevel" />
+            <option value="E:/Java/OnJava8-Examples-master/newio" />
+            <option value="E:/Java/OnJava8-Examples-master/objects" />
+            <option value="E:/Java/OnJava8-Examples-master/onjava" />
+            <option value="E:/Java/OnJava8-Examples-master/operators" />
+            <option value="E:/Java/OnJava8-Examples-master/patterns" />
+            <option value="E:/Java/OnJava8-Examples-master/polymorphism" />
+            <option value="E:/Java/OnJava8-Examples-master/references" />
+            <option value="E:/Java/OnJava8-Examples-master/reuse" />
+            <option value="E:/Java/OnJava8-Examples-master/serialization" />
+            <option value="E:/Java/OnJava8-Examples-master/standardio" />
+            <option value="E:/Java/OnJava8-Examples-master/staticchecking" />
+            <option value="E:/Java/OnJava8-Examples-master/streams" />
+            <option value="E:/Java/OnJava8-Examples-master/strings" />
+            <option value="E:/Java/OnJava8-Examples-master/typeinfo" />
+            <option value="E:/Java/OnJava8-Examples-master/validating" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
