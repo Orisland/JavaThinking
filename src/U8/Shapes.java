@@ -71,6 +71,7 @@ public class Shapes {
         for (shape s:shapes){
             s.draw();
             s.put();    //这个每次都会调用
+
         }
     }
 }

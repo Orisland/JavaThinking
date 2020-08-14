@@ -148,6 +148,7 @@ public class Music {
         Music music =new Music(5);                           //主函数直接创建就完事了
         Instrument instrument = new Instrument();               // 懒人是这样的
         music.put1();
+        //music.put();
     }
 
 }
