@@ -3,6 +3,9 @@ package U8;
 import java.util.Random;
 
 class Rodent{
+    Rodent(){
+        System.out.println("rodent constructor");
+    }
     public void voice(){
         System.out.println("voice");
     }
@@ -21,6 +24,9 @@ class Rodent{
 }
 
 class Mouse extends Rodent{
+    Mouse(){
+        System.out.println("mouse constructor");
+    }
     @Override
     public void voice() {
         System.out.println("mouse voice");
@@ -38,6 +44,9 @@ class Mouse extends Rodent{
 }
 
 class Gerbil extends Rodent{
+    Gerbil(){
+        System.out.println("gerbil constructor");
+    }
     @Override
     public void voice() {
         System.out.println("Gerbil voice");
@@ -55,6 +64,9 @@ class Gerbil extends Rodent{
 }
 
 class Hamster extends Rodent{
+    Hamster(){
+        System.out.println("hamster constructor");
+    }
     @Override
     public void voice() {
         System.out.println("hamster voice");
