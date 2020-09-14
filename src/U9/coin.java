@@ -13,7 +13,6 @@ import java.util.Random;
 
 interface action{
     void start();
-
 }
 
 
